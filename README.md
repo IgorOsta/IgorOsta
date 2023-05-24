@@ -5,7 +5,7 @@ Hello there! I'm Igor, a passionate frontend developer specializing in the MERN 
 
 Feel free to reach out to me via email  &nbsp; [![Email](https://img.shields.io/badge/Email-igor.ostaci@gmail.com-blue?logo=mail.ru&logoColor=white)](mailto:igor.ostaci@gmail.com) &nbsp; \
 \
-Connect with me on &nbsp; ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)\
+Connect with me on &nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-ostaci)\
 \
 I'm open to exciting opportunities and collaborations.
 
