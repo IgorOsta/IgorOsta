@@ -22,7 +22,7 @@ I'm open to exciting opportunities and collaborations.
 ![MERN](https://img.shields.io/badge/-MERN-61DAFB?logo=react&logoColor=white&labelColor=black) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&labelColor=black) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white&labelColor=black)
 
 ## Projects
-[![Projects](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)](https://github.com/IgorOsta/yReact-Real-World-Projects)
+[![Projects](https://img.shields.io/badge/GitHub-Projects-181717?logo=github&logoColor=white)](https://github.com/IgorOsta/React-Real-World-Projects)
 
 ### Project 1: Portfolio Website
 As part of a team, I developed an e-commerce website using the MERN stack. The application featured a responsive user interface with product listing, shopping cart functionality, and secure payment integration. I utilized React.js for the frontend, Node.js and Express.js for the backend API, and MongoDB for the database.
